@@ -1,6 +1,7 @@
 <h1 align="center">Api DotNet Core Mongo</h1>
 
-Repositório de uma API criada para fins acadêmicos responsável pela listagem de registros de pessoas infectadas, essa aplicação teve sua estrutura desenvolvida com base no curso 
+## :computer: Projeto
+Repositório de uma API criada para fins acadêmicos responsável por exemplificar uma lista de registros de pessoas infectadas, essa aplicação teve sua estrutura desenvolvida com base no curso 
 [Construindo um projeto de uma API.NET integrada ao MongoDB](https://digitalinnovation.one/) da Digital Innovation One.
 
 
